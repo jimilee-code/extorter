@@ -8,7 +8,7 @@ import time
 import requests
 import json
 
-X_RapidAPI_Key = "d4ed1285d9msh2fc62c092e2d74ap158c31jsn7fe698469ae6"
+X_RapidAPI_Key = "*"
 
 def main():
 	global X_RapidAPI_Key
